@@ -37,4 +37,4 @@ When either (1) the spec file or (2) the underlying class file are saved, this w
 
 ## License
 
->TBD
+[MIT](https://github.com/stelligent/aws-stubs-intro/blob/master/LICENSE.md)
